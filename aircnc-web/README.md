@@ -1,7 +1,7 @@
 # AirCnC - Web
 React App for AirCnC application. See also:
- - [Server](https://github.com/rafacdomin/aircnc-server)
- - [Mobile](https://github.com/rafacdomin/aircnc-mobile)
+ - [Server](https://github.com/rafacdomin/aircnc/tree/master/aircnc-server)
+ - [Mobile](https://github.com/rafacdomin/aircnc/tree/master/mobile)
  
 <img src="https://i.imgur.com/5jpdvmN.png" height="350"> 
 

@@ -1,6 +1,7 @@
-# AirCnC - Server
-Node server for Aircnc application. 
+# AirCnC
+
 Check:
+  - [Server](https://github.com/rafacdomin/aircnc/tree/master/aircnc-server)
   - [Web Client](https://github.com/rafacdomin/aircnc/tree/master/aircnc-web)
   - [Mobile](https://github.com/rafacdomin/aircnc/tree/master/mobile)
 
